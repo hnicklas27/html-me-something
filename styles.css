@@ -1,8 +1,8 @@
 body{
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right:150px;
-    margin-left:70px;
+    margin-right:250px;
+    margin-left:250px;
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     background-color:#DCFAFF;
     color:#555757;
@@ -11,7 +11,7 @@ body{
 }
 #title_header{
     font-size: 30px;
-    text-align: center;
+    
     
 }
 
@@ -34,4 +34,23 @@ img{
     float:left
 
 }
-
+h3{
+    font-family: "Snell Roundhand", cursive;
+    font-size:25px;
+}
+h5 a{
+    color:#555757;
+    text-decoration:none;
+}
+h5 a:hover{
+    text-decoration:underline;
+}
+h5 a:visited{
+    color:#136F86;
+}
+h5{
+    font-size: 18px;
+}
+h6{
+    font-size:16px;
+}
