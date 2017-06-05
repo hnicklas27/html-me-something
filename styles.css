@@ -9,8 +9,13 @@ body{
 
 
 }
-header.title header{
+#title_header{
     font-size: 30px;
     
 }
 
+image{
+    border: double, 3px,#7000FF;
+    width: 100px;
+    height: 100px;
+}
