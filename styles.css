@@ -30,6 +30,8 @@ img{
     font-size: 14px;
     color:#DCFAFF;
     text-decoration: none;
-    target: "_blank"
+    border-radius:25px;
+    
 
 }
+
